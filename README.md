@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ## About Me<br><br>I am a detail-oriented **Data Analyst** with a strong foundation in **data cleaning, exploratory data analysis, SQL querying, Python scripting, and interactive dashboard development**. I enjoy transforming raw, complex datasets into meaningful insights that support strategic decision-making and business growth.<br><br>My workflow focuses on **data wrangling, statistical analysis, dashboard storytelling, and performance reporting** using tools such as **Excel, SQL, Python, Power BI, and Pandas**. I am passionate about identifying patterns, optimizing processes, and presenting data in a clear, actionable, and business-oriented way.<br><br>I am continuously improving my analytical thinking, technical problem-solving, and data visualization skills to deliver high-quality insights and contribute effectively to data-driven environments.<br>
 
 
